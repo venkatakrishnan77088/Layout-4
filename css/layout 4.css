@@ -1,0 +1,109 @@
+.header{
+	background-color:white;
+}
+.wrapper{
+	margin:auto;
+	width:70%;
+}
+.header-fc{
+	display:flex;
+	justify-content:space-between;
+	background-color:#6BDEDB;
+}
+.header-fc .yummy{
+	width:20%;
+	height:34px;
+}
+.header-fc .navi{
+	width:40%;
+	height:34px;
+	text-align:center;
+}
+.header-fc .book-table
+{
+width:40%;
+height:34px;
+text-align:right;
+}
+.health{
+	background-color:white;
+}
+.health-fc{
+	display:flex;
+	background-color:#943126;
+	justify-content:space-between;
+}
+ .health-fc .health-para{
+	 height:576px;
+	 width:48%;
+ }
+ .health-fc .health-img{
+	 height:576px;
+	 width:48%;
+	 background-color:#979A9A;
+ }
+ .about
+ {
+	 background-color:white;
+ }
+.about-fc{
+	 display:flex;
+	 flex-wrap:wrap;
+	 justify-content:space-between:
+ }
+ 
+.about-fc .about-heading{
+	 width:100%;
+	 text-align:center;
+	 height:16px;
+ }
+.about-fc .about-para{
+	 text-align:center;
+	 height:72px;
+	 width:100%;
+ }
+.about-fc .about-rel-para{
+	width:48%;
+	height:702px;
+	text-align:center;
+	background-color:yellow;
+}
+.about-fc .about-img{
+	width:48%;
+	height:702px;
+	text-align:center;
+	background-color:green;
+}
+.whychoose-yummy{
+	background-color:white;
+}
+.whychoose-yummy-fc{
+	display:flex;
+	background-color:white;
+	justify-content:space-between;
+}
+.whychoose-yummy-fc .whychoose-yummy-item{
+	height:362px;
+	width:20%;
+	text-align:center;
+	background-color:#4B2FC5;
+}
+.send-msg{
+	background-color:white;
+}
+.send-msg-fc{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-between;
+}
+.send-msg-fc .send-msg-button{
+	width:100%;
+	height:48px;
+	text-align:center;
+}
+.send-msg-fc .send-addr{
+	width:20%;
+	height:120px;
+	background-color:#E5482F;
+}
+
